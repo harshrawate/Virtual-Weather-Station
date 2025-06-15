@@ -4,7 +4,7 @@ This project is a Virtual Weather Station that provides real-time weather update
 
 Features
 Weather Dashboard: Displays current weather conditions and forecasts for any location.
-Search Functionality: Allows users to search for weather updates by city or location.
+Search Functionality: Allows users to search for weather updates by city or location
 Real-Time Data: Integrates with weather APIs to fetch live weather data.
 Responsive Design: Optimized for various devices including desktops, tablets, and mobile phones.
 Secure Backend: Ensures data management and API interactions are handled safely.

@@ -1,4 +1,4 @@
-Virtual Weather Station
+koVirtual Weather Station
 Overview
 This project is a Virtual Weather Station that provides real-time weather updates and forecasts for users. Built as a full-stack application, it integrates weather APIs to deliver accurate data on temperature, humidity, wind speed, and other conditions. The platform features a user-friendly interface, responsive design, and secure backend functionality.
 
@@ -17,4 +17,4 @@ Backend
 Node.js
 Express.js
 APIs
-OpenWeatherMap API (or any other weather API you used)
+OpenWeatherMap API (or any other weather API you used).

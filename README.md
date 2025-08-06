@@ -17,4 +17,4 @@ Backend
 Node.js
 Express.js
 APIs
-OpenWeatherMap API (or any other weather API you used)
+OpenWeatherMap API (or any other weather API you used).

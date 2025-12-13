@@ -15,6 +15,6 @@ Bootstrap
 Material-UI
 Backend
 Node.js
-Express.js
+Express.js.
 APIs
 OpenWeatherMap API (or any other weather API you used).
